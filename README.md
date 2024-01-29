@@ -1,6 +1,6 @@
 # Computer-Vision
-This Repo contains the assignments of the course Computer Vision 
-The codes contains the implementation of the following:-
+This Repo contains the assignments of the course Computer Vision
+The codes in the branches contains the implementation of the following:-
 1. PCA (principle component analysis)
 2. SVD (singular value decomposition)
 3. 8 point algorithm
